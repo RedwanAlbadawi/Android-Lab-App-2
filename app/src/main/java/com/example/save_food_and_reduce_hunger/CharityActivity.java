@@ -71,10 +71,11 @@ public class CharityActivity extends DonorActivity{
             valueEventListener = new ValueEventListener() {
                 @Override
                 public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
-                    notifyThis("Alert","Donation Available");
+                    // for notification
+                    /*notifyThis("Alert","Donation Available");
                     if(isNotificationAvailable){
                         isNotificationAvailable = false;
-                    }
+                    }*/
 
                 }
                 @Override

@@ -42,17 +42,16 @@ public class mapviewActivity extends FragmentActivity implements OnMapReadyCallb
 
         // uncomment when deploy app...
 
-        /*Bundle b = getIntent().getExtras();
+        Bundle b = getIntent().getExtras();
         donorLat = b.getDouble("latitude");
-        donorLng = b.getDouble("longitude");*/
+        donorLng = b.getDouble("longitude");
 
         //////////////////////////////////////
 
 
-
         // using for testing purpose..remove when deploy application.
-        donorLat = 33.652350;
-        donorLng = 73.064565;
+        /*donorLat = 39.205276;
+        donorLng = -94.646388;*/
 
         /////////////////////////////////////////////////////////////
 
@@ -60,11 +59,6 @@ public class mapviewActivity extends FragmentActivity implements OnMapReadyCallb
         fetchLastLocation();
 
 
-
-
-
-        lat=33.5969;
-        longi=73.0528;
     }
 
     private void fetchLastLocation() {

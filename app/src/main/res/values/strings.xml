@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Save Food</string>
+    <string name="user_name">Enter Email</string>
+    <string name="user_password">Enter Password</string>
+    <string name="user_cnf_password">Confirm Password</string>
+    <string name="forget">Forget Password?</string>
+    <string name="button_login">Login</string>
+    <string name="user_email">Enter Email</string>
+    <string name="user_phone">Enter Phone Number</string>
+    <string name="register">Don\'t have an account? REGISTER</string>
+    <string name="login_name">Login</string>
+
+
+    <!-- Alert Dialog Messages -->
+    <string name="signUpDialogTitle">Sign Up</string>
+    <string name="signUpDialogMessage">Creating account please wait</string>
+    <string name="connectionProblemTitle">No Internet Connection</string>
+    <string name="connectionProblemMessage">You are not connected to internet. check your internet connection.....</string>
+
+    <!-- Roles  -->
+    <string name="roleDonor">Donor</string>
+    <string name="roleCharity">Charity</string>
+
+    <!-- Error Messages -->
+    <string name="usernameRequired">Username is required</string>
+    <string name="emailRequired">Email is Required</string>
+    <string name="passwordRequired">Password is Required</string>
+    <string name="confirmPasswordRequired">Confirm password is required</string>
+    <string name="passwordMatchFailed">both password should be same.</string>
+    <string name="passwordValidityFailed">Password should contain 1 capital, special letter and not less than 8 characters</string>
+    <string name="emailValidityFailed">Invalid Email Address</string>
+    <string name="phoneValidityFailed">Phone number should be in this format eg. 0313-9090909</string>
+
+    <string name="errorEmailExists">This email is already registered</string>
+
+
+
+    <string-array name="type">
+        <item>Donor</item>
+        <item>Charity</item>
+    </string-array>
+
+    <string-array name="quantity">
+        <item>10 Bags</item>
+        <item>More than 10</item>
+    </string-array>
+
+    <string-array name="Food_Type">
+        <item>Fast Food \n </item>
+        <item>Meal</item>
+        <item>Fruits</item>
+    </string-array>
+
+
+    <string name="line">
+    Please fill the following fields and \n click upload to post food quantity \n and items for charity.
+</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dummy">
+        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+        Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, \n when an
+        printer took a galley of type and scrambled it to make a type specimen book.
+    </string>
+    <string name="Open" />
+    <string name="Close" />
+
+
+    <string name="avail_donation">Home</string>
+    <string name="donate">Donate </string>
+    <string name="logout">Logout</string>
+    <string name="menu_tools">Setting</string>
+    <string name="menu_share">Share</string>
+    <string name="drawerOpen" />
+    <string name="drawerClose" />
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+
+</resources>

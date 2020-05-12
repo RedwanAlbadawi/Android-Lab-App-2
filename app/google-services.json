@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "924213680603",
+    "firebase_url": "https://save-food-and-reduce-hunger.firebaseio.com",
+    "project_id": "save-food-and-reduce-hunger",
+    "storage_bucket": "save-food-and-reduce-hunger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924213680603:android:926e33d0adc42086446ffe",
+        "android_client_info": {
+          "package_name": "com.example.save_food_and_reduce_hunger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924213680603-8ouns610s20vqbfbbmg6hotvil2p50f5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgKr1ax6fmV9C_Jwysb2H4aCAV8pxvLVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924213680603-8ouns610s20vqbfbbmg6hotvil2p50f5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

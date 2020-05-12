@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Save_Food_AND_Reduce_Hunger'
